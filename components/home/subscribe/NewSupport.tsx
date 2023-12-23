@@ -26,7 +26,7 @@ export default function NewSupport({}): JSX.Element {
         />
         <div className="flex flex-col pt-10 pb-32 sm:flex-col md:flex-row lg:flex-row xl:flex-row">
           <div className="flex flex-col items-center gap-y-10 border-r border-gray-900 border-opacity-10 md:w-1/2 md:justify-center lg:w-1/2 lg:justify-center xl:w-1/2 xl:justify-center">
-            <SubDesc title="Apple products development" icon="support/swift">
+            <SubDesc title="Apple products development" icon="courses/swift">
               <div>
                 Swift is the main language for creating Apps in{' '}
                 <a
